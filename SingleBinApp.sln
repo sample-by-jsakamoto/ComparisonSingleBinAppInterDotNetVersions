@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30608.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleBinApp", "SingleBinApp\SingleBinApp.csproj", "{AEBCA4DB-9E0F-40D3-B683-1A5EF5B20F75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEBCA4DB-9E0F-40D3-B683-1A5EF5B20F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEBCA4DB-9E0F-40D3-B683-1A5EF5B20F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEBCA4DB-9E0F-40D3-B683-1A5EF5B20F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEBCA4DB-9E0F-40D3-B683-1A5EF5B20F75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A973003-3753-41BF-B7C4-A25A6DBC20BF}
+	EndGlobalSection
+EndGlobal
